@@ -13,7 +13,8 @@ export default {
       },
       gridTemplateColumns: {
         '70/30': '70% 28%',
+      },
     },
   },
   plugins: [],
-}
+};
