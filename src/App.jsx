@@ -1,11 +1,12 @@
-import React from 'react'
-import Navbar from './components/navbar.jsx'
+import Navbar from './components/navbar.jsx';
+import Hero from './components/hero.jsx';
+import React from 'react';
 
 const App = () => {
   return (
     <>
      <Navbar/>
-
+     <Hero />
    
     {/* Developers and Employers */}
     <section className="py-4">
